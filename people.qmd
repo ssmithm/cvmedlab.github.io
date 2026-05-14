@@ -5,7 +5,7 @@ format:
       - include/icons.html
 ---
 
-:::::::::::::::::::::::::::::::::::::::: grid
+:::::::::::::::::::::::::::::::::::::::::: grid
 ::: g-col-12
 ## [People]{style="color: #1E354B"}
 
@@ -13,7 +13,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/steve_profile.jpg){fig-align="center"}
+![](assets/steve_profile.jpg){fig-align="center" fig-alt="Image of Dr. Steven Smith"}
 :::
 
 ::: g-col-10
@@ -21,7 +21,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/shailina_keshwani.jpg){fig-align="center"}
+![](assets/shailina_keshwani.jpg){fig-align="center" fig-alt="Image of Dr. Shailina Keshwani"}
 :::
 
 ::: g-col-10
@@ -33,15 +33,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/asinamai_ndai.jpg){fig-align="center"}
-:::
-
-::: g-col-10
-[**Asinamai Ndai, MS**]{style="color: #1E354B"} is a PhD student in the Department of Pharmaceutical Outcomes and Policy. His research is focused on the intersection of hypertension and HIV.
-:::
-
-::: g-col-2
-![](assets/kayla_smith.jpg){fig-align="center"}
+![](assets/kayla_smith.jpg){fig-align="center" fig-alt="Image of Dr. Kayla Smith"}
 :::
 
 ::: g-col-10
@@ -49,7 +41,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/shu-niu.png){fig-align="center"}
+![](assets/shu-niu2.png){fig-align="center" fig-alt="Image of Shu Niu"}
 :::
 
 ::: g-col-10
@@ -57,7 +49,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/tram_nguyen.jpg){fig-align="center"}
+![](assets/tram_nguyen.jpg){fig-align="center" fig-alt="Image of Tram Nguyen"}
 :::
 
 ::: g-col-10
@@ -69,7 +61,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/veronica-profile.jpg){fig-align="center"}
+![](assets/veronica-profile.jpg){fig-align="center" fig-alt="Image of Veronica Donoso"}
 :::
 
 ::: g-col-10
@@ -77,7 +69,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/david-smith.jpg){fig-align="center"}
+![](assets/david-smith.jpg){fig-align="center" fig-alt="Image of David Smith"}
 :::
 
 ::: g-col-10
@@ -89,7 +81,15 @@ format:
 :::
 
 ::: g-col-2
-![](assets/earl_morris.jpg){fig-align="center"}
+![](assets/asinamai_ndai.jpg){fig-align="center" fig-alt="Image of Dr. Asinamai Ndai"}
+:::
+
+::: g-col-10
+[**Asinamai Ndai, MS**]{style="color: #1E354B"} was a PhD student in the Department of Pharmaceutical Outcomes and Policy. His research is focused on the intersection of hypertension and HIV. He is currently a consultant in the pharmaceutical industry. 
+:::
+
+::: g-col-2
+![](assets/earl_morris.jpg){fig-align="center" fig-alt="Image of Dr. Earl Morris"}
 :::
 
 ::: g-col-10
@@ -97,7 +97,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/marta-profile-photo.jpg){fig-align="center"}
+![](assets/marta-profile-photo.jpg){fig-align="center" fig-alt="Image of Marta Walsh"}
 :::
 
 ::: g-col-10
@@ -105,7 +105,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/Mirian-Hay-Roe.jpg){fig-align="center"}
+![](assets/Mirian-Hay-Roe.jpg){fig-align="center" fig-alt="Image of Dr. Mirian Hay-Roe"}
 :::
 
 ::: g-col-10
@@ -113,7 +113,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/christie_monahan.jpg){fig-align="center"}
+![](assets/christie_monahan.jpg){fig-align="center" fig-alt="Image of Dr. Christie Monahan"}
 :::
 
 ::: g-col-10
@@ -121,7 +121,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/raj_desai.jpg){fig-align="center"}
+![](assets/raj_desai.jpg){fig-align="center" fig-alt="Image of Dr. Raj Desai"}
 :::
 
 ::: g-col-10
@@ -129,7 +129,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/chris-piszczatoski.jpg){fig-align="center"}
+![](assets/chris-piszczatoski.jpg){fig-align="center" fig-alt="Image of Dr. Chris Piszczatoski"}
 :::
 
 ::: g-col-10
@@ -137,7 +137,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/G_Dawwas-CROP.jpg){fig-align="center"}
+![](assets/G_Dawwas-CROP.jpg){fig-align="center" fig-alt="Image of Dr. Ghadeer Dawwas"}
 :::
 
 ::: g-col-10
@@ -145,7 +145,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/scott_garland.jpg){fig-align="center"}
+![](assets/scott_garland.jpg){fig-align="center" fig-alt="Image of Dr. Scott Garland"}
 :::
 
 ::: g-col-10
@@ -153,7 +153,7 @@ format:
 :::
 
 ::: g-col-2
-![](assets/andrew_hwang.jpg){fig-align="center"}
+![](assets/andrew_hwang.jpg){fig-align="center" fig-alt="Image of Dr. Andrew Hwang"}
 :::
 
 ::: g-col-10
@@ -165,4 +165,4 @@ format:
 
 See the [about page](about.qmd) for information on joining the group.
 :::
-::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::

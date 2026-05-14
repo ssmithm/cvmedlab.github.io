@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cvmedlab.org/people.html</loc>
-    <lastmod>2025-04-12T04:20:49.628Z</lastmod>
+    <lastmod>2026-05-14T03:32:39.723Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/news/index.html</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/research.html</loc>
-    <lastmod>2024-02-26T02:36:18.000Z</lastmod>
+    <lastmod>2026-05-14T03:33:28.822Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/labdocs/writing.html</loc>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/labdocs/forest_plot.html</loc>
-    <lastmod>2023-08-13T05:15:42.000Z</lastmod>
+    <lastmod>2026-01-24T05:41:58.638Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/labdocs/table1_table1.html</loc>
@@ -78,7 +78,7 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/labdocs/cumulative_incidence.html</loc>
-    <lastmod>2025-03-13T03:33:51.753Z</lastmod>
+    <lastmod>2026-01-24T05:40:16.147Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/labdocs/antihypertensive_pharmacology.html</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/projects/mino_trh/index.html</loc>
-    <lastmod>2024-02-26T04:14:55.000Z</lastmod>
+    <lastmod>2026-01-24T05:34:16.757Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/projects/antihtn_cascades/index.html</loc>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/index.html</loc>
-    <lastmod>2025-03-13T03:34:50.807Z</lastmod>
+    <lastmod>2026-01-24T05:19:00.301Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/news/posts/high-throughput-acei-cascades/index.html</loc>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/news/posts/smith-nam-consensus-study-cvd-pregnancy/index.html</loc>
-    <lastmod>2025-03-30T03:50:16.303Z</lastmod>
+    <lastmod>2025-03-30T03:50:16.000Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/news/posts/smith-appointed-pop-chair/index.html</loc>
@@ -150,10 +150,22 @@
   </url>
   <url>
     <loc>https://cvmedlab.org/news/posts/keshwani-dissertation-defense/index.html</loc>
-    <lastmod>2025-03-30T04:15:31.932Z</lastmod>
+    <lastmod>2025-03-30T04:15:31.000Z</lastmod>
   </url>
   <url>
     <loc>https://cvmedlab.org/news/posts/keshwani-faculty-cvmedlab/index.html</loc>
-    <lastmod>2025-03-30T04:15:44.225Z</lastmod>
+    <lastmod>2025-03-30T04:15:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.org/news/posts/asinamai-ndai-graduates/index.html</loc>
+    <lastmod>2026-01-24T05:02:31.181Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.org/news/posts/shu-niu-awarded-aha-predoc/index.html</loc>
+    <lastmod>2026-05-14T03:26:13.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.org/news/posts/seby-jugl-awarded-aha-cda/index.html</loc>
+    <lastmod>2026-05-14T03:25:45.001Z</lastmod>
   </url>
 </urlset>

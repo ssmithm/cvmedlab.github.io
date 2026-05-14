@@ -1,0 +1,15 @@
+---
+title: "Shu Niu Awarded AHA Predoc"
+author: "Steven M. Smith"
+date: "2025-12-12"
+categories: [grants]
+image: "American_Heart_Association_Logo.svg"
+---
+
+It's almost the holidays and the lab has just gotten some excellent news.
+
+Shu Niu, a 4th year PhD student, submitted an [American Heart Association](https://www.heart.org/) predoctoral fellowship application this fall, and we were just notified today that she scored in the 7th percentile and has been awarded one of these very prestigious grants. Her proposal seeks to better characterize cardiotoxicity associated with immune checkpoint inhibitors (a new type of cancer treatment) and to evaluate whether statin medications modify the risk of such cardiotoxicity. Please join me in congratulating Shu!
+
+This is the second AHA predoctoral fellowship received in the lab, the first being Earl Morris in 2022.
+
+![Shu Niu, MS](shu-niu.png){#fig-shu width="2in" fig-align="left"}

@@ -68,7 +68,7 @@ kable(mace)
 
 As you can see by comparing this table to the first one above, the code above just cleans up the data a bit and gets it ready for display. One thing that's not obvious from the output table is that the levels within each strata (for example, Male and Female) are indented. If you opened the table with `View(mace)` you would see this:
 
-![](/assets/screengrabs/labdocs_forestplot1.png)
+![](/assets/screengrabs/labdocs_forestplot1.png){#fig-align="A screenshot of a View of a Data Frame."}
 
 This indentation is necessary if you want the eventual forest plot to have the same indentation for each level of a strata. If you don't care (or don't even want strata headers), you could omit the step that creates this indentation.
 

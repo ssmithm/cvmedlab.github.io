@@ -62,6 +62,7 @@ First, we create a cumulative incidence curve for time-to-first follow-up. The y
 #| label: T1FU_plot
 #| out-width: "95%"
 #| fig-align: "center"
+#| fig-alt: "A cumulative incidence curve of time to first follow-up."
 ggsurvplot(fut1, 
            data = fu, 
            fun = "event", 
@@ -91,6 +92,7 @@ Same thing here, but now we are restricting this plot to the **`r fu |> subset(s
 #| label: T2FU_plot
 #| out-width: "95%"
 #| fig-align: "center"
+#| fig-alt: "A cumulative incidence curve of time to second follow-up."
 ggsurvplot(fut2, 
            data = fu2, 
            fun = "event", 

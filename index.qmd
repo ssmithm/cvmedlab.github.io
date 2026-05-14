@@ -5,7 +5,7 @@ format:
       - include/icons.html
 ---
 
-![](./assets/CVmedLab_Logo-01.svg){fig-align="center"}
+![](./assets/CVmedLab_Logo-01.svg){fig-align="center" fig-alt="A picture of the CV med Lab Logo."}
 
 The Cardiovascular Medications Lab (CVmedLab) at the University of Florida investigates real world safety and effectiveness of cardiovascular medications. We ask questions like how are cardiovascular diseases treated in the real world and how do these treatment regimens evolve over time? Are certain medications more effective than others for a particular cardiovascular disease? To what extent are well-known disparities in cardiovascular disease outcomes explained by differences in treatment approaches? These kinds of questions are investigated using observational data (e.g., electronic health records, insurance claims data) and epidemiologic methods, as well as with prospective clinical trials. The CVmedLab uses a variety of computational methods and tools to conduct and communicate research.
 
